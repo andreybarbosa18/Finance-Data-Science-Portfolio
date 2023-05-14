@@ -1,2 +1,0 @@
-# Finance-Data-Science-Project
-#
